@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Versity Android Lab</string>
+
+    <string name="demoAppName">ProCoder Java</string>
+    <string name="demoAppDeveloperName">MKR Labs</string>
+    <string name="demoAppAdsStatus">Contains Ads</string>
+    <string name="installText">Install</string>
+    <string name="aboutThisApp">About this app</string>
+    <string name="rateThisApp">Rate this app</string>
+    <string name="aboutDemoAppDescription">Learn Java programming language app that monitors and tests your progress</string>
+    <string name="reteTellOthers">Tell others what you think</string>
+    <string name="writeAReview">Write a review</string>
+    <string name="appCategory">Education</string>
+</resources>
